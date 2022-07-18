@@ -32,7 +32,15 @@
 - The page features an image which has been stored in the WordPress Media Library
 - Title, alternative text, caption and description have been set for the image.
 
+## User Story 5
+*As an Editor I want to create 3 initial blog posts for my website, so that visitors get informed with the latest news on my project.*
 
+### Acceptance Criteria
+- 3 posts have been published
+- The posts feature content relevant to the websites topic
+- The posts feature text
+- The posts feature at least one images
+- The posts feature at least one video
 
 #### Links
 SkillSet: https://my.skilldisplay.eu/en/skillset/508
