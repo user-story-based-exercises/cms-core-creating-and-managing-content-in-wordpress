@@ -7,14 +7,6 @@
 - The theme Twenty Twenty-Two has been activated for the WordPress installation.
 
 ## User Story 2
-*As an Editor I want to create a static Imprint page, so that I fullfil mandatory governmental requirements.*
-
-### Acceptance Criteria
-- A new imprint page is available on the website
-- The page can be accessed via the menu
-- The page fullfils the governmental regulations of Austria for imprints
-
-## User Story 3
 *As an Editor I want to create an Imprint page, so that I fullfil mandatory governmental requirements.*
 
 ### Acceptance Criteria
@@ -22,7 +14,7 @@
 - The page can be accessed via the menu
 - The page fullfils the governmental regulations of Austria for imprints
 
-## User Story 4
+## User Story 3
 *As an Editor I want to create an About, so that visitors get an overview of the websites purpose.*
 
 ### Acceptance Criteria
@@ -32,7 +24,7 @@
 - The page features an image which has been stored in the WordPress Media Library
 - Title, alternative text, caption and description have been set for the image.
 
-## User Story 5
+## User Story 4
 *As an Editor I want to create 3 initial blog posts for my website, so that visitors get informed with the latest news on my project.*
 
 ### Acceptance Criteria
