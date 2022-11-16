@@ -31,7 +31,7 @@
 - 3 posts have been published
 - The posts feature content relevant to the websites topic
 - The posts feature text
-- The posts feature at least one images
+- The posts feature at least one image
 - The posts feature at least one video
 
 #### Links
