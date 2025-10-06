@@ -1,7 +1,7 @@
 # CMS | CORE | Creating and Managing Content in Wordpress
 
 ## User Story 1
-*As an Editor I want to activate the theme Twenty Twenty-Two, so that I can make use of block features.*
+*As an Editor I want to activate the theme Twenty Twenty-Five, so that I can make use of block features.*
 
 ### Acceptance Criteria
 - The theme Twenty Twenty-Two has been activated for the WordPress installation.
