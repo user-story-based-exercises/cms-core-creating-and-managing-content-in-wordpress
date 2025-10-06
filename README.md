@@ -4,7 +4,7 @@
 *As an Editor I want to activate the theme Twenty Twenty-Five, so that I can make use of block features.*
 
 ### Acceptance Criteria
-- The theme Twenty Twenty-Two has been activated for the WordPress installation.
+- The theme Twenty Twenty-Five has been activated for the WordPress installation.
 
 ## User Story 2
 *As an Editor I want to create an Imprint page, so that I fullfil mandatory governmental requirements.*
